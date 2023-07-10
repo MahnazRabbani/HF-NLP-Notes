@@ -3,7 +3,9 @@
 
 HF-NLP-Notes is a comprehensive resource designed to support individuals interested in exploring Natural Language Processing (NLP) concepts, with a particular focus on leveraging the HuggingFace ecosystem and its associated libraries.
 
-In this repository, you will find detailed notes, explanations, and code snippets that serve as a companion to the NLP course provided by HuggingFace. These materials aim to facilitate a better understanding of NLP fundamentals and demonstrate practical implementation using the HuggingFace (HF) tools and resources.
+In this repository, you will find detailed notes, explanations, and code snippets that serve as a summary of NLP course provided by HuggingFace. These materials aim to provide a refresher of NLP fundamentals and the HuggingFace (HF) NLP tools and resources.
+For some sections, I have added additional information and background to support the main materials of the course.
+
 
 - Chapters 1 to 4: introduction to the main concepts of the HF Transformers library.   
 - Chapters 5 to 8: basics of HF Datasets and Tokenizers libaraies + diving into classic NLP tasks.
